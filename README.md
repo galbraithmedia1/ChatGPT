@@ -1,6 +1,6 @@
 <p align="center">
   <img width="180" src="./public/logo.png" alt="ChatGPT">
-  <h1 align="center">ChatGPT</h1>
+  <h1 align="center">AustinGPT</h1>
   <p align="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)</p>
 </p>
 
